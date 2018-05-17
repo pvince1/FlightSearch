@@ -1,0 +1,19 @@
+Winterfell, The Wall, 80
+Winterfell, Riverrun, 100
+Kings Landing, Dragonstone, 50
+Kings Landing, Bravos, 250
+The Wall, Winterfell, 100
+Volantis, Kings Landing, 185
+Astapor, Volantis, 32
+Astapor, Myreen, 87
+Volantis, Bravos, 139
+Myreen, Winterfell, 130
+Casterly Rock, Kings Landing, 15
+Dragonstone, The Wall, 50
+The Wall, Riverrun, 35
+Casterly Rock, Dragonstone, 38
+Bravos, Astapor, 138
+Bravos, Volantis, 20
+Dragonstone, Winterfell, 140
+Dragonstone, Kings Landing, 30
+Casterly Rock, Myreen, 75
